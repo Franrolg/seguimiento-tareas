@@ -1,0 +1,20 @@
+body{
+    background-color: aliceblue;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.nav-link{
+    font-weight: bolder;
+    color: white!important;
+}
+
+h1 {
+    margin-top: 30vh;
+    margin-bottom: 30vh;
+    text-align: center;
+}
+
+.border-bottom {
+    border-color: black!important;
+}
